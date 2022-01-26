@@ -1,6 +1,9 @@
 # kristabhell
-<H1>Giovannka Ninoska Antia Oliver Ferrufino</H1>
-<H3>WINDOWS | LINUX | PYTHON| ANALISIS DE DATOS | PHP</H3>
+<table>
+            <tr>
+                <td><img src="https://github.com/kristabhell12/kristabhell/blob/main/photo_2022-01-26_15-09-27.jpg" width="2000px"> </td>
+                <td><H1>Giovannka Ninoska Antia Oliver Ferrufino</H1>
+<H3>WINDOWS | LINUX | PYTHON| ANALISIS DE DATOS | PHP | JAVASCRIPT</H3>
 <H3>CYBERSECURITY |INFORMATICA FORENCE|CRIPTOGRAFIA</H3>
 <b>RESUMEN</b>
 
@@ -9,7 +12,7 @@ Me encanta trabajar en equipo pero tambien me gusta mi espacio personal cuando d
 o codigo, me gusta ensimismarme en los problemas algoritmicos y el analisis de datos y sacarles todo el
 provecho posible asi como decifrar como se hacen las cosas. Adoro desarmar enigmas y crear soluciones.</p>.
 
-<b>EXPERIENCIA LABORA</b>L
+<b>EXPERIENCIA LABORAL</b>L
 
 <b>DESARROLLO DE SOFTWARE</b><br>
 <b>Facultad de Derecho UMSA | http://www.carrera-derecho.edu.bo/ | Julio del 2018 a Diciembre del 2020<b/>
@@ -24,7 +27,7 @@ una parte para la Firma Digital que se utiliza en los Certificados Unicos de Not
 • Diseño y manejo de la revista juridica de la Carrera de Derecho.
 • Recovery o recuperacion de datos perdidos en equipos tecnologicos de la Facultad de Derecho o de los docentes si asi lo requerian.</p>
 
-<b>SOPORTE TECNICO Y ATENCION DE PLATAFORMA AL CLIENTE</b><br>
+<b>SOPORTE TECNICO Y ATENCION DE PLATAFORMA AL USUARIO</b><br>
 <b>Facultad de Derecho UMSA | http://www.carrera-derecho.edu.bo/ | Julio del 2018 a Diciembre del 2020</b>
 
 <p align = "justify">Realizaba al mismo tiempo el mantenimiento y solucion de problemas de todos los equipos tecnologicos de la Facultad de Derecho,
@@ -85,8 +88,16 @@ Mis funciones fueron:
 <b>L E N G U A J E S</b>
 
 • Español | Lenguaje nativo<p>
-• Ingles | B1
-  </body>
+• Ingles | B1<p>
+• Japones | Basico </td>
+            </tr>
+        </table>
+
+
+ 
+
+
+
 
 
 
